@@ -6,7 +6,7 @@ function Register() {
         <Flex minH="100vh" align="center" justify="center" bg="gray.50">
         <Box w="100%" maxW="md" p={6}>
             <Text fontSize="2xl" fontWeight="bold" mb={4} textAlign="center">
-            Welcome Back 👋
+            Welcome 👋
             </Text>
             <LoginForm />
         </Box>
